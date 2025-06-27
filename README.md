@@ -3,7 +3,7 @@
 ![Aidul Akbari](img/background%20linkedin.png)
 
 
-- 🧑‍💻 I’m undergraduate at [**Hasnur Polytechnic**](https://polihasnur.ac.id/)
+- 🧑‍💻 I'am Undergraduate Informatics Engineering Student [**Hasnur Polytechnic**](https://polihasnur.ac.id/)
 - 🌱 I’m currently learning [**Laravel,**](https://laravel.com) [**React,**](https://react.dev/) [**Flask**](https://flask.palletsprojects.com/)
 - 🖥️I have a strong passion to become a Software Engineer.
 
