@@ -1,111 +1,82 @@
-<p align="center">
-  <img src="https://path.to/your/banner-image.png" alt="Banner Profil GitHub Saya">
-</p>
+## What's Up?! I'm Aidul Akbari 👋
 
-<h1 align="center">Halo 👋, saya [Nama Lengkap Anda]</h1>
-<h3 align="center">Seorang [Jabatan Anda, cth: Full-Stack Developer, Mahasiswa IT, Data Analyst] dari [Lokasi Anda, cth: Jakarta, Indonesia].</h3>
+![Aidul Akbari](img/background%20linkedin.png)
 
-<p align="center">
-  Saya bersemangat tentang pengembangan perangkat lunak dan suka menciptakan solusi inovatif untuk masalah di dunia nyata. Saat ini, saya sedang mendalami teknologi cloud dan kecerdasan buatan. Mari berkolaborasi!
-</p>
 
----
+- 🧑‍💻 I’m undergraduate at [**Hasnur Polytechnic**](https://hasnur.ac.id/)
+- 🌱 I’m currently learning [**Laravel,**](https://laravel.com) [**React,**](https://react.dev/) [**Flask**](https://flask.palletsprojects.com/)
+- 🖥️I have a strong passion to become a Software Engineer.
 
-### 👨‍💻 Tentang Saya
+##### My friends
+![https://chatgpt.com/](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![https://github.com/features/copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
+) ![https://gemini.google.com/?hl=id](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white
+)
 
-- 🌱 Saat ini saya sedang belajar **[Teknologi/Bahasa yang sedang dipelajari, cth: Golang, AWS, atau Machine Learning]**.
-- 🔭 Saya sedang mengerjakan proyek **[Nama Proyek Pribadi Anda]**.
-- 👯‍♀️ Saya terbuka untuk berkolaborasi dalam proyek open-source yang berkaitan dengan **[Topik yang Anda minati, cth: Edukasi, Lingkungan]**.
-- 🤔 Saya membutuhkan bantuan untuk **[Sebutkan jika ada tantangan spesifik yang Anda hadapi]**.
-- 💬 Tanya saya tentang **[Topik yang Anda kuasai, cth: React, Python, atau UI/UX Design]**.
-- 📫 Cara menghubungi saya: **[Alamat Email Profesional Anda]**.
-- 😄 Fakta menarik: **[Sebutkan fakta unik tentang diri Anda, cth: Saya bisa menyeduh kopi V60 dengan sempurna!]**.
+##### Ever studied
+###### Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
----
+###### Framework & Library
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white
+" />
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white
+" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+" />
+<img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white
+" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+" />
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white
+" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+" />
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+" />
+<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white
+" />
+<img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white
+" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+" />
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white
+" />
 
-### 🛠️ Skill & Teknologi
+##### Connect with me
 
-<p align="left">
-  <strong>Bahasa Pemrograman:</strong><br>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-</p>
+![https://instagram.com/aidulakbari](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/aidul-akbari](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)
 
-<p align="left">
-  <strong>Frontend Development:</strong><br>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
-  <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a>
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
-  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-</p>
 
-<p align="left">
-  <strong>Backend Development:</strong><br>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akbariaidul&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akbariaidul&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akbariaidul&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
-  <strong>Database & Tools:</strong><br>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-</p>
-
----
-
-### 🚀 Proyek Unggulan
-
-| Nama Proyek                                             | Deskripsi Singkat                                        | Teknologi yang Digunakan        |
-| ------------------------------------------------------- | -------------------------------------------------------- | ------------------------------- |
-| **[Project A](https://github.com/akbariaidul/project-a)** | Sebuah aplikasi web untuk manajemen tugas harian.          | `React`, `Node.js`, `MongoDB`   |
-| **[Project B](https://github.com/akbariaidul/project-b)** | Website portofolio pribadi yang responsif dan cepat.     | `Next.js`, `Tailwind CSS`       |
-| **[Project C](https://github.com/akbariaidul/project-c)** | Bot Discord untuk memutar musik dari YouTube.            | `Python`, `Discord.py`          |
-
----
-
-### 📊 Statistik GitHub Saya
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akbariaidul&show_icons=true&theme=radical&rank_icon=github" alt="Statistik GitHub Akbar I. Aidul" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbariaidul&layout=compact&theme=radical" alt="Bahasa Paling Sering Digunakan" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=akbariaidul&theme=radical">
-    <img title="🔥 Streak Stats" alt="Streak Stats Akbar I. Aidul" src="https://github-readme-streak-stats.herokuapp.com/?user=akbariaidul&theme=radical"/>
-  </a>
-</p>
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=akbariaidul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=akbariaidul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Mari Terhubung
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akbariaidul/akbariaidul/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akbariaidul/akbariaidul/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akbariaidul/akbariaidul/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/username-anda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/username-anda" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/username-anda/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-   <a href="mailto:email-anda@contoh.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akbariaidul&label=Profile%20views&color=0e75b6&style=flat" alt="Jumlah Pengunjung Profil" />
-</p>
+<img src="https://raw.githubusercontent.com/akbariaidul/akbariaidul/output/snake.svg" alt="Snake animation" />
