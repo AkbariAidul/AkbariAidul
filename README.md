@@ -1,4 +1,4 @@
-## What's Up?! I'm Aidul Akbari 👋
+## What's Up? I'm Aidul Akbari 👋
 
 ![Aidul Akbari](img/background%20linkedin.png)
 
