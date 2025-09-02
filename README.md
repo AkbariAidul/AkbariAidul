@@ -1,6 +1,6 @@
 ## What's Up? I'm Aidul Akbari 👋
 
-![Aidul Akbari](img/background%20linkedin.png)
+
 
 
 - 🧑‍💻 I'am Undergraduate Informatics Engineering Student at [**Hasnur Polytechnic**](https://polihasnur.ac.id/)
